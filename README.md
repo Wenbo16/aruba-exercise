@@ -1,1 +1,6 @@
-This is the exercise for aruba
+## Get started
+``` npm install ```
+
+``` npm start ```
+
+``` go to http://localhost:3000/ ```
